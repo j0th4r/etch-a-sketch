@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 640px;  
+    height: 640px; 
+    margin: auto;
+    border: 1px solid #000;
+}
+.grid {
+  width: 40px;
+  height: 40px; 
+  background-color: lightblue;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
